@@ -37,4 +37,4 @@ This folder contains an R-Project as well as all scripts needed to reproduce the
 - **Auxiliary Functions.R**: Contains aux functions that are sourced throughout the other scripts.
 
 ## Manuscript
-This folder contains the manuscript as well as the supplemental materials.
+This folder contains the manuscript as well as the supplemental materials and the preregistration.
