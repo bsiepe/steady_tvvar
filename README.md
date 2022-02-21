@@ -27,7 +27,7 @@ This folder contains all processed data as well as some R-Output.
 This folder contains various Figures and animations used in the manuscript, supplement or not used yet. 
 Importantly, **nets539_id2.gif** is the GIF of all 539 models estimated for participant 2 that is referenced in a footnote of the manuscript.
 
-## Script
+## Scripts
 This folder contains an R-Project as well as all scripts needed to reproduce the analyses in the study. The scripts are numbered and should be used in that sequence. Still, each script contains loading comments to load all relevant data or functions from other scripts. These are the scripts:
 - **1. Preprocessing.R**: Contains missing data procedures and imputation, creates final data set. 
 - **2. Descriptives.R**: Contains all descriptives used in the manuscript. 
