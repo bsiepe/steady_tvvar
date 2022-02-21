@@ -42,7 +42,7 @@ More specific output:
 - **varying_pars+rel_id_x_.svg**: Varying parameter visualization with sampling distribution for manuscript
 
 ## Scripts
-This folder contains an R-Project as well as all scripts needed to reproduce the analyses in the study. The scripts are numbered and should be used in that sequence. Still, each script contains loading comments to load all relevant data or functions from other scripts. These are the scripts:
+This folder contains all scripts needed to reproduce the analyses in the study. The scripts are numbered and should be used in that sequence. Still, each script contains loading comments to load all relevant data or functions from other scripts. These are the scripts:
 - **1. Preprocessing.R**: Contains missing data procedures and imputation, creates final data set. 
 - **2. Descriptives.R**: Contains all descriptives used in the manuscript. 
 - **3. Analysis.R**: Contains all main and preregistered analyses in the manuscript. 
