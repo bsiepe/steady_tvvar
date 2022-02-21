@@ -23,7 +23,7 @@ This folder contains all processed data as well as some R-Output.
 - **sim_error_distributions.RData**: Results of simulations for hypothesis test. 
 - **SessionInfo.RData**: Session Info 
 
-#### Output
+## Output
 This folder contains various Figures and animations used in the manuscript, supplement or not used yet. 
 Importantly, **nets539_id2.gif** is the GIF of all 539 models estimated for participant 2 that is referenced in a footnote of the manuscript.
 
