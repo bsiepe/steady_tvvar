@@ -24,7 +24,7 @@ This folder contains all processed data as well as some R-Output.
 - **SessionInfo.RData**: Session Info 
 
 ## Output
-This folder contains various Figures and animations used in the manuscript, supplement or not used yet.
+This folder contains various figures and animations used in the manuscript, supplement or not used yet.
 Importantly, **nets539_id2.gif** is the GIF of all 539 models estimated for participant 2 that is referenced in a footnote of the manuscript.
 
 Further general output:
