@@ -5,24 +5,6 @@ This file contains information about the data and other material that supplement
 In the general folder, the R project file **IdiographicTSA.Rproj** can be found. It is easiest to run all the scripts from this Project.
 The folder structure is as follows:
 
-## Data
-This folder contains all raw and processed data. Subdirectories include:
-### Raw
-This folder contains all raw data, more specifically: 
-- **STEADY_Tagesdaten.csv**: Raw daily self-report data used for this study
-- **Selbstbericht_Pre_Post.csv**: Pre-and post questionnaires, including the IDS-C used in the manuscript. 
-- **Daten_STEADY_final.csv**:Demographic information and screening data.
-### Processed
-This folder contains all processed data as well as some R-Output. 
-- **data.RData**: Final dataset with imputated data created by the script **1. Preprocessing.R**. 
-- **id_codes.RData**: ID codes to match STEADY codes to my numerical codes.
-- **bw_results.RData**: Results of first iteration of bandwidth selection. 
-- **bw_results_small.RData**: Results of second iteration of bandwidth selection for small bandwidths.
-- **bw_results_large.RData**: Results of second iteration of bandwidth selection for large bandwidths.
-- **tvvar_res.RData**: Resuts of time-varying vectorautoregression.
-- **sim_error_distributions.RData**: Results of simulations for hypothesis test. 
-- **SessionInfo.RData**: Session Info 
-
 ## Output
 This folder contains various figures and animations used in the manuscript, supplement or not used yet.
 Importantly, **nets539_id2.gif** is the GIF of all 539 models estimated for participant 2 that is referenced in a footnote of the manuscript.
