@@ -1,0 +1,52 @@
+R version 4.1.3 (2022-03-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=German_Germany.1252  LC_CTYPE=German_Germany.1252   
+[3] LC_MONETARY=German_Germany.1252 LC_NUMERIC=C                   
+[5] LC_TIME=German_Germany.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+  [1] nlme_3.1-153            httr_1.4.2              naniar_0.6.1           
+  [4] RColorBrewer_1.1-2      tools_4.1.3             backports_1.4.1        
+  [7] utf8_1.2.2              R6_2.5.1                rpart_4.1.16           
+ [10] Hmisc_4.6-0             DBI_1.1.1               colorspace_2.0-2       
+ [13] nnet_7.3-16             tidyselect_1.1.1        gridExtra_2.3          
+ [16] mnormt_2.0.2            compiler_4.1.3          qgraph_1.9             
+ [19] fdrtool_1.2.16          glmnet_4.1-2            htmlTable_2.3.0        
+ [22] animation_2.7           fastDummies_1.6.3       rrapply_1.2.3          
+ [25] scales_1.1.1            checkmate_2.0.0         mvtnorm_1.1-3          
+ [28] psych_2.1.9             readr_2.0.2             pbapply_1.5-0          
+ [31] stringr_1.4.0           digest_0.6.29           pbivnorm_0.6.0         
+ [34] minqa_1.2.4             foreign_0.8-82          base64enc_0.1-3        
+ [37] jpeg_0.1-9              pkgconfig_2.0.3         htmltools_0.5.2        
+ [40] lme4_1.1-27.1           fastmap_1.1.0           htmlwidgets_1.5.4      
+ [43] rlang_0.4.11            readxl_1.3.1            rstudioapi_0.13        
+ [46] shape_1.4.6             generics_0.1.1          gtools_3.9.2           
+ [49] graphicalVAR_0.3        dplyr_1.0.7             magrittr_2.0.1         
+ [52] Formula_1.2-4           texreg_1.37.5           Matrix_1.4-0           
+ [55] Rcpp_1.0.7              munsell_0.5.0           fansi_0.5.0            
+ [58] proto_1.0.0             abind_1.4-5             lifecycle_1.0.1        
+ [61] visdat_0.5.3            stringi_1.6.2           clusterGeneration_1.3.7
+ [64] MASS_7.3-55             plyr_1.8.6              lavaan_0.6-9           
+ [67] grid_4.1.3              mlVAR_0.5               parallel_4.1.3         
+ [70] crayon_1.4.2            lattice_0.20-45         splines_4.1.3          
+ [73] pander_0.6.4            hms_1.1.1               magick_2.7.3           
+ [76] tmvnsim_1.0-2           knitr_1.36              pillar_1.6.4           
+ [79] igraph_1.2.7            boot_1.3-28             corpcor_1.6.10         
+ [82] reshape2_1.4.4          codetools_0.2-18        stats4_4.1.3           
+ [85] glue_1.4.2              latticeExtra_0.6-29     data.table_1.14.2      
+ [88] mgm_1.2-12              nloptr_1.2.2.2          png_0.1-7              
+ [91] vctrs_0.3.8             tzdb_0.1.2              foreach_1.5.1          
+ [94] cellranger_1.1.0        gtable_0.3.0            purrr_0.3.4            
+ [97] tidyr_1.1.4             gsubfn_0.7              assertthat_0.2.1       
+[100] ggplot2_3.3.5           xfun_0.27               xtable_1.8-4           
+[103] coda_0.19-4             survival_3.2-13         glasso_1.11            
+[106] arm_1.12-2              tibble_3.1.6            iterators_1.0.13       
+[109] MplusAutomation_1.0.0   cluster_2.1.2           ellipsis_0.3.2         
