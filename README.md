@@ -33,5 +33,3 @@ This folder contains all scripts needed to reproduce the analyses in the study. 
 - **5. Block Bootstrap Server.R**: Contains code to perform the bootstrap stability analyses for computation on a Linux server. 
 - **Auxiliary Functions.R**: Contains aux functions that are sourced throughout the other scripts.
 
-## Manuscript
-This folder contains the manuscript as well as the supplemental materials and the preregistration.
