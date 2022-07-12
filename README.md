@@ -1,7 +1,7 @@
 # README 
 
 ## Information
-This file contains information about the data and other material that supplements the thesis "Temporal Dynamics of Depressive Symptomatology: An idiographic time series analysis".
+This file contains information about the scriptsand other material that supplements the thesis "Temporal Dynamics of Depressive Symptomatology: An idiographic time series analysis".
 In the general folder, the R project file **IdiographicTSA.Rproj** can be found. It is easiest to run all the scripts from this Project.
 The folder structure is as follows:
 
