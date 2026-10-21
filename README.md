@@ -33,3 +33,11 @@ This folder contains all scripts needed to reproduce the analyses in the study. 
 - **5. Block Bootstrap Server.R**: Contains code to perform the bootstrap stability analyses for computation on a Linux server. 
 - **Auxiliary Functions.R**: Contains aux functions that are sourced throughout the other scripts.
 
+## License
+
+This repository contains materials distributed under different licenses:
+
+- **Source code:** Licensed under the [MIT License](LICENSE).
+- **Data and other non-code materials:** Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Unless otherwise stated, the above licenses apply to the respective categories of materials. Any third-party materials remain subject to their own license terms.
